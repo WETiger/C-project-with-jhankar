@@ -1,0 +1,27 @@
+.header{
+    height: 400px;
+    background: gold;
+    background-image: url("IMG_9668.JPG");
+    background-size: cover;
+}
+
+h2{
+    font-size: 50px;
+    text-decoration: overline;
+    color: #f80000;
+    font-family: 'Courier New', Courier, monospace;
+}
+.second{
+    /* display: none; */
+    visibility: hidden;
+}
+.blog{
+    box-shadow: 10px 10px 20px tomato;
+}
+.nece{
+    border: 1px solid teal;
+    color: #fff;
+    margin: 20px;
+    padding: 5px;
+    display: inline-block;
+}
